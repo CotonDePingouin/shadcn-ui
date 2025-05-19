@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 2.5.1
+
+### Patch Changes
+
+- [#6885](https://github.com/shadcn-ui/ui/pull/6885) [`2773f9e2e29cf67e521632d15d1ba302a82e39e9`](https://github.com/shadcn-ui/ui/commit/2773f9e2e29cf67e521632d15d1ba302a82e39e9) Thanks [@Joshua-hypt](https://github.com/Joshua-hypt)! - resolved prefixing issue for Tailwind CSS v4 compatibility
+
 ## 2.5.0
 
 ### Minor Changes
